@@ -1,2 +1,2 @@
 # kms
-for GT-AX6000 kms
+GT-AX6000 kms
